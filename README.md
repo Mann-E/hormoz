@@ -30,4 +30,10 @@ _NOTE:_ Remember to change `my-secret-key` to a more secure API key. Specially i
 
 ### Deploying the model
 
+Just do this:
+
+```
+modal deploy modal/vllm_inference.py
+```
+
 ## Benchmarks

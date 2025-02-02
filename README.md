@@ -10,7 +10,7 @@
     <img src="MMLU_Benchmark.png" />
 </p>
 
-## Comparing with other models
+## Comparing with other models (MMLU)
 
 ### SoTA models
 
@@ -31,4 +31,9 @@
 
 ### Open Source models (Big Ones)
 
-### Open Source models (Small Ones)
+| Model | MMLU Score |
+|-------|------------|
+| Hormoz-8B | 34.62%|
+| DeepSeek-V3 | 88.5%  |
+| LLaMA 3.1 405B | 88.6%  |
+| Mistral Large | 81.2%  |

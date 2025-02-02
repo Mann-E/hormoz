@@ -18,4 +18,16 @@ modal run modal/download_model.py
 
 And wait until it downloads the model weights.
 
+### Serving the model 
+
+The only thing you need to do is running the following command:
+
+```
+modal serve modal/vllm_inference.py
+```
+
+_NOTE:_ Remember to change `my-secret-key` to a more secure API key. Specially if you're gonna use this model on production.
+
+### Deploying the model
+
 ## Benchmarks

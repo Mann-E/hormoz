@@ -29,4 +29,6 @@
     <img src="mmlu_sota.png" />
 </p>
 
-### Open Source models
+### Open Source models (Big Ones)
+
+### Open Source models (Small Ones)

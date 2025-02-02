@@ -1,6 +1,6 @@
 # Hormoz 8B
 
-## MMLU Benchmark Result
+## MMLU Pro Benchmark Result
 
 | overall | biology | business | chemistry | computer science | economics | engineering | health | history | law | math | philosophy | physics | psychology | other |
 | ------- | ------- | -------- | --------- | ---------------- | --------- | ----------- | ------ | ------- | --- | ---- | ---------- | ------- | ---------- | ----- |
@@ -10,7 +10,7 @@
     <img src="MMLU_Benchmark.png" />
 </p>
 
-## Comparing with other models (MMLU)
+## Comparing with other models (MMLU Pro)
 
 ### SoTA models
 

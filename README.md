@@ -14,4 +14,15 @@
 
 ### SoTA models
 
+| Model | MMLU Score |
+|-------|------------|
+| Hormoz-8B | 34.62%|
+| GPT-4o mini | 84.0%  |
+| GPT-4o | 86.4%  |
+| Claude 3.5 Haiku | 80.9%  |
+| Claude 3.5 Sonnet | 86.8%  |
+| Claude 3 Opus | 85.7%  |
+| Claude 3 Sonnet | 81.5%  |
+| Claude 3 Haiku | 76.7%  |
+
 ### Open Source models

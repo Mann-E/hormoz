@@ -25,4 +25,8 @@
 | Claude 3 Sonnet | 81.5%  |
 | Claude 3 Haiku | 76.7%  |
 
+<p align="center">
+    <img src="mmlu_sota.png" />
+</p>
+
 ### Open Source models

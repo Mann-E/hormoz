@@ -37,3 +37,7 @@
 | DeepSeek-V3 | 88.5%  |
 | LLaMA 3.1 405B | 88.6%  |
 | Mistral Large | 81.2%  |
+
+<p align="center">
+    <img src="mmlu_osi_big.png" />
+</p>

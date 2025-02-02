@@ -11,3 +11,7 @@
 </p>
 
 ## Comparing with other models
+
+### SoTA models
+
+### Open Source models

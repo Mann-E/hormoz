@@ -9,3 +9,5 @@
 <p align="center">
     <img src="MMLU_Benchmark.png" />
 </p>
+
+## Comparing with other models

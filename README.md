@@ -80,7 +80,7 @@ print(gen_text)
 #### Comparing with open source big models
 
 <p align="center">
-    <img src="mmlu_sota.png" />
+    <img src="mmlu_osi_big.png" />
 </p>
 
 ## License

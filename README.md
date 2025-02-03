@@ -69,4 +69,10 @@ print(gen_text)
 
 ## Benchmarks
 
+### MMLU 
+
+#### Comparing with SoTA models
+
+#### Comparing with open source big models
+
 ## License

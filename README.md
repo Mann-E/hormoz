@@ -73,6 +73,14 @@ print(gen_text)
 
 #### Comparing with SoTA models
 
+<p align="center">
+    <img src="mmlu_sota.png" />
+</p>
+
 #### Comparing with open source big models
+
+<p align="center">
+    <img src="mmlu_sota.png" />
+</p>
 
 ## License

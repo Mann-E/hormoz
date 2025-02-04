@@ -2,6 +2,20 @@
 
 ## Introduction
 
+This model is an effort in order to make a multi-lingual and _on device_ models which can be executed on the consumer hardware. The model follows the steps used in training _DeepSeek_ model. However, the model is _not a reasoning model_ and a generic question answering, conversational and _uncensored_ model which has been made with a cost of around $4000 USD. 
+ 
+ Also, this model is based on _Command R_'s architecture, since that architecture gave us the best results in multilingual chat. Specially with languages such as _Persian_ and _Arabic_. This way, you can consider this model like a commercially useaeble version of _aya expanse_ as well.
+
+### The name
+
+<p align="center">
+  <img src="https://github.com/Mann-E/hormoz/blob/main/hormoz-logo.png?raw=true" width=768px />
+</p>
+
+The name __Hormoz__ comes from the Persian word "هرمز" which has multiple meanings. It can point to the _strait of Hormoz_ in Persian Gulf or _Hormoz Island_ which is part of the Hormozgan Province in the south of Iran. Also it may point to "اورمزد" or _Ourmozd_ which is middle/ancient Persian name for the planet _Jupiter_ and derived from the term _Ahura Mazda_ or the Avestan term for God. 
+
+## Costs
+
 ## Run on [Modal](https://modal.com)
 
 First, you have to go to [modal](https://modal.com) and create an account. Then, you follow their instructions in order to sign your computer to their network and then, you have to follow the following instrcutions.

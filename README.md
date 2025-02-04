@@ -14,6 +14,10 @@ This model is an effort in order to make a multi-lingual and _on device_ models 
 
 The name __Hormoz__ comes from the Persian word "هرمز" which has multiple meanings. It can point to the _strait of Hormoz_ in Persian Gulf or _Hormoz Island_ which is part of the Hormozgan Province in the south of Iran. Also it may point to "اورمزد" or _Ourmozd_ which is middle/ancient Persian name for the planet _Jupiter_ and derived from the term _Ahura Mazda_ or the Avestan term for God. 
 
+## Model Card
+
+You can read [Model Card](./MODEL.md) or you can check the model on [Hugging Face](https://huggingface.co/mann-e/Hormoz-8B).
+
 ## Costs
 
 ## Run on [Modal](https://modal.com)

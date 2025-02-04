@@ -98,3 +98,9 @@ print(gen_text)
 </p>
 
 ## License
+
+This model is published under _MIT_ license. 
+
+### Commercial Use 
+
+Since this model is MIT licensed, you're free to do whatever you want with the model. However since we're a relatively small startup, we recommend you if you are a big corporate and you host this model, give us a capacity of your API as well. This way, we both can benefit from the model. 

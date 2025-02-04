@@ -110,6 +110,12 @@ print(gen_text)
     <img src="mmlu_osi_big.png" />
 </p>
 
+### GSM8K
+
+#### Comparing with SoTA models
+
+#### Comparing with open source models
+
 ## License
 
 This model is published under _MIT_ license. 

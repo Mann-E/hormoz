@@ -115,7 +115,7 @@ print(gen_text)
 #### Comparing with SoTA models
 
 <p align="center">
-    <img src="gsm8k_osi_big.png" />
+    <img src="gsm8k_sota.png" />
 </p>
 
 #### Comparing with open source models

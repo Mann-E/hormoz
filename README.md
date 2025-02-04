@@ -124,6 +124,10 @@ print(gen_text)
     <img src="gsm8k_osi_big.png" />
 </p>
 
+### Other Benchmarks
+
+1. LAMBADA : `67.94`
+
 ## License
 
 This model is published under _MIT_ license. 

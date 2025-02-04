@@ -20,6 +20,15 @@ You can read [Model Card](./MODEL.md) or you can check the model on [Hugging Fac
 
 ## Costs
 
+| Cost | Price (US Dollars) |
+|:--------------:|:--------:|
+| RTX 4090 (x4)  | $1.5/hour |
+| Storage        | $0.005/hour |
+| Man Hour       | $20/hour 
+
+We haven't added the cost of OpenAI API's (used for translating and generating the datasets) to the above list. 
+
+
 ## Run on [Modal](https://modal.com)
 
 First, you have to go to [modal](https://modal.com) and create an account. Then, you follow their instructions in order to sign your computer to their network and then, you have to follow the following instrcutions.
